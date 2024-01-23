@@ -3,6 +3,7 @@ import streamlit as st
 def main():
     st.title("Multiple Image Interaction Demo")
 
+    
     # Create two columns
     col1, col2 = st.columns(2)
 
